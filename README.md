@@ -1,16 +1,9 @@
 ## Hi there! I'M yunsang
 
-<!--
-**yunsang-testt/yunsang-testt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate learner and developer interested in building cool projects and solving challenging problems.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **I’m currently working on**: Open-source contributions and personal projects  
+- 🌱 **I’m currently learning**: Python, Backend Development  
+- 📫 **How to reach me**: yunsangshin04@gmail.com
+-  📺 **Follow My YouTube Channel**:
+-  [![YouTube](https://www.youtube.com/channel/UCruVTcHY3fQPsXfoRQty0Bw)]
